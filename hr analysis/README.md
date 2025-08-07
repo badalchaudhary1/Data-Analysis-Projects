@@ -66,3 +66,16 @@ This Power BI dashboard provides an in-depth analysis of **employee attrition** 
 
 ## 📁 Folder Structure
 
+hr_analysis_dashboard/
+├── hr analytics.pbix
+├── hr analytics dashboard image.jpg
+└── README.md
+
+
+
+---
+
+## 📬 Contact
+
+For questions or suggestions, feel free to open an issue or reach out.
+
