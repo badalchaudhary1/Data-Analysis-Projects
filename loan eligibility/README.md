@@ -1,4 +1,4 @@
-# 🏦 Loan Eligibility Prediction Project
+\# 🏦 Loan Eligibility Prediction Project
 
 This project aims to predict whether a loan applicant is eligible for a loan using classification techniques. It’s based on demographic, financial, and employment-related features of the applicants.
 
