@@ -74,3 +74,24 @@ These slicers allow interactive exploration of the data.
 ## 📁 Folder Structure
 
 
+blinkit_sales_analysis/
+├── blinkit_dashboard.pbix
+├── blinkit_dashboard.jpg
+└── README.md
+
+
+---
+
+## 🎯 Key Insights
+
+- Focus on **regular fat products** for higher sales
+- **Snack Foods** and **Fruits** are bestsellers
+- **Tier 1** cities are top contributors in revenue
+- **Supermarket Type 1** outlets dominate in sales and product visibility
+
+---
+
+## 📬 Contact
+
+For any queries, suggestions, or contributions, feel free to connect via GitHub or open an issue in the repository.
+
